@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/media/sejan/New Volume/Practise/flask/.env/bin/python3" "$0" "$@"
+'''exec' "/media/sejan/New Volume/Practise/flaskapp/.env/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/sejan/New Volume/Practise/flask/.env"
+VIRTUAL_ENV="/media/sejan/New Volume/Practise/flaskapp/.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
